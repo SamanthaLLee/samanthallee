@@ -1,20 +1,23 @@
-## Hi, thanks for stopping by!
+# 👋 Hi, thanks for stopping by!
 
-### Basics:
-- I'm Sam Lee (she/her)
-- Junior @ RU
-- Majoring in Comp Sci & Cog Sci
+I'm Sam Lee (she/her), a junior at Rutgers University majoring in Computer Science and Cognitive Science.
 
-### I'm interested in... 
-- I'm Sam Lee
-- Junior @ RU
-- Majoring in Comp Sci & Cog Sci
+#### 🧑🏻‍💻 Experience
+- Application Development Intern @ Vanguard (Summer 2020)
+- Research Assistant @ InfoSeeking (Spring & Summer 2019)
+- (I'm also currently a TA for Data Structures @ Rutgers CS and a consultant @ Rutgers Office of IT)
 
-### I'm passionate about... 
+#### 🤔 Interested in... 
+- Software engineering
+- Human-centered research
+
+#### ❤️ Passionate about... 
 - Diversity in tech
 - Ethical tech
 - K-12 outreach
 
-### I'm learning about... 
+#### 📚 Learning about... 
 - Data science & visualization
 - Bias in ML
+
+I love talking to people. Connect with me on <a href="https://www.linkedin.com/in/samanthallee/">LinkedIn</a> or shoot me an <a href="mailto:samantha.lin.lee@gmail.com?subject=Hello!">email</a>! 
