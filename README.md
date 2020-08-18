@@ -5,12 +5,6 @@
 - Junior @ RU
 - Majoring in Comp Sci & Cog Sci
 
-### Experience:
-- Former intern @ Vanguard
-- Former RA @ InfoSeeking
-- CS112 TA @ Rutgers CS
-- Consultant @ Rutgers OIT
-
 ### I'm interested in... 
 - I'm Sam Lee
 - Junior @ RU
