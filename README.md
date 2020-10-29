@@ -3,9 +3,9 @@
 I'm Sam Lee (she/her), a junior at Rutgers University majoring in Computer Science and Cognitive Science.
 
 #### 🧑🏻‍💻  Experience
+- Teaching Assistant @ Rutgers CS (current)
 - Application Development Intern @ Vanguard (Summer 2020)
 - Research Assistant @ InfoSeeking (Spring & Summer 2019)
-- (I'm also currently a TA for Data Structures @ Rutgers CS and a consultant @ Rutgers Office of IT)
 
 #### 🤔  Interested in... 
 - Software engineering
