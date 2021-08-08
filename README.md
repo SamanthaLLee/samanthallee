@@ -1,9 +1,10 @@
 # 👋 Hi, thanks for stopping by!
 
-I'm Sam Lee (she/her), a junior at Rutgers University majoring in Computer Science and Cognitive Science.
+I'm Sam Lee (she/her), a senior at Rutgers University majoring in Computer Science and Cognitive Science and minoring in Political Science.
 
 #### 🧑🏻‍💻  Experience
 - Teaching Assistant @ Rutgers CS (current)
+- SDE Intern @ Audible, Inc. (Summer 2021)
 - Application Development Intern @ Vanguard (Summer 2020)
 - Research Assistant @ InfoSeeking (Spring & Summer 2019)
 
