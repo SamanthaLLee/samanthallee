@@ -1,6 +1,6 @@
 # 👋 Hi, thanks for stopping by!
 
-I'm Sam Lee (she/her), a senior at Rutgers University majoring in Computer Science and Cognitive Science and minoring in Political Science.
+I'm Sam Lee (she/her), a senior at Rutgers University majoring in Computer Science and Cognitive Science and minoring in Political Science. I will be joining Microsoft's Redmond office in August 2022.
 
 #### 🧑🏻‍💻  Experience
 - Head Teaching Assistant @ Rutgers CS (current)
@@ -14,7 +14,6 @@ I'm Sam Lee (she/her), a senior at Rutgers University majoring in Computer Scien
 - Human-centered research
 - Social media bias
 - Public policy
-- Tech polity
 
 #### ❤️  Passionate about... 
 - DEI in tech
@@ -23,6 +22,7 @@ I'm Sam Lee (she/her), a senior at Rutgers University majoring in Computer Scien
 
 #### 📚  Learning about... 
 - Neural networks
-- Bias in ML
+- Tech policy
+- Intersectional data bias
 
 I love talking to people. Connect with me on <a href="https://www.linkedin.com/in/samanthallee/">LinkedIn</a> or shoot me an <a href="mailto:samantha.lin.lee@gmail.com?subject=Hello!">email</a>! 
