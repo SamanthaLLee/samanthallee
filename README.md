@@ -11,7 +11,7 @@ I'm Sam Lee (she/her), a senior at Rutgers University majoring in Computer Scien
 
 #### 🤔  Interested in... 
 - Software engineering
-- Human-centered research
+- HCI research
 - Social media bias
 - Public policy
 
