@@ -3,8 +3,8 @@
 I'm Sam Lee (she/her), a senior at Rutgers University majoring in Computer Science and Cognitive Science and minoring in Political Science. I will be joining Microsoft's Redmond office in August 2022.
 
 #### 🧑🏻‍💻  Experience
-- Head Teaching Assistant @ Rutgers CS (current)
-- Research Assistant @ The Nicolas Lab (current)
+- Head Teaching Assistant @ Rutgers CS (2021-2022)
+- Research Assistant @ The Nicolas Lab (2021-2022)
 - SDE Intern @ Audible, Inc. (Summer 2021)
 - Application Development Intern @ Vanguard (Summer 2020)
 - Research Assistant @ InfoSeeking (Spring & Summer 2019)
